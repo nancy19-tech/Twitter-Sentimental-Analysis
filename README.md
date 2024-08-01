@@ -2,7 +2,8 @@
 
 Sentiment Analysis on 1.6 Million Tweets
 
-Overview
+Overview:-
+
 This project involves conducting sentiment analysis on a dataset of 1.6 million tweets using Python. The analysis includes extensive data preprocessing and the application of logistic regression for sentiment classification. Various data visualizations, such as sentiment distribution, word clouds, and sentiment analysis by flag, are used to provide insights. Additionally, sentiment trends over time are tracked to understand the evolution of sentiments.
 
 Features:-
