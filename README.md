@@ -9,7 +9,9 @@ This project involves conducting sentiment analysis on a dataset of 1.6 million 
 Features:-
 
 1)Visualizations: The project includes several key visualizations to analyze the sentiment data effectively. The sentiment distribution was visualized to show how sentiments are spread across the dataset. Word clouds were created to highlight prominent terms associated with different sentiments, providing a visual representation of the most frequent words. Additionally, sentiment analysis was performed based on various flags, allowing us to examine and visualize sentiment distribution across different categories. Lastly, sentiment trends over time were tracked and visualized to observe how sentiments have evolved throughout the dataset.
+
 2)Preprocessing: Performed extensive data cleaning and preprocessing to prepare the dataset for analysis.
+
 3)Sentiment Analysis: Utilized logistic regression for classifying sentiments of tweets.
 
 Dataset:-
